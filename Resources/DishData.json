@@ -1,0 +1,37 @@
+[
+    {
+        "name" : "aaa",
+        "price" : 20,
+        "img_path" : "img/aaa.jpg",
+        "description" : "aaa",
+        "labels" : ["label1", "label2"]
+    },
+    {
+        "name" : "bbb",
+        "price" : 30,
+        "img_path" : "img/bbb.jpg",
+        "description" : "bbb",
+        "labels" : ["label1", "label3"]
+    },
+    {
+        "name" : "ccc",
+        "price" : 40,
+        "img_path" : "img/ccc.jpg",
+        "description" : "ccc",
+        "labels" : ["label2", "label3"]
+    },
+    {
+        "name" : "ddd",
+        "price" : 50,
+        "img_path" : "img/ddd.jpg",
+        "description" : "ddd",
+        "labels" : ["label1", "label2", "label3"]
+    },
+    {
+        "name" : "eee",
+        "price" : 60,
+        "img_path" : "img/eee.jpg",
+        "description" : "eee",
+        "labels" : ["label2", "label3"]
+    }
+]
