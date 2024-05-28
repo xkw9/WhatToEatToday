@@ -57,4 +57,12 @@ public:
         jsonObj.insert("labels", arr);
         return jsonObj;
     }
+
+    friend bool operator==(const Dish & d1, const Dish & d2) {
+        return d1.name == d2.name;
+    }
+
+    friend bool operator==(const Dish & d1, const QString& name) {
+        return d1.name == name;
+    }
 };

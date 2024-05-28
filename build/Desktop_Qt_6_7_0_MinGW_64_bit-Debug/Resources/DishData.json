@@ -1,73 +1,22 @@
 [
     {
-        "description": "aaa",
-        "img_path": "img/aaa.jpg",
-        "labels": [
-            "label1",
-            "label2"
-        ],
-        "name": "aaa",
-        "price": 20
-    },
-    {
-        "description": "bbb",
-        "img_path": "img/bbb.jpg",
-        "labels": [
-            "label1",
-            "label3"
-        ],
-        "name": "bbb",
-        "price": 30
-    },
-    {
-        "description": "ccc",
-        "img_path": "img/ccc.jpg",
-        "labels": [
-            "label2",
-            "label3"
-        ],
-        "name": "ccc",
-        "price": 40
-    },
-    {
-        "description": "ddd",
-        "img_path": "img/ddd.jpg",
-        "labels": [
-            "label1",
-            "label2",
-            "label3"
-        ],
-        "name": "ddd",
-        "price": 50
-    },
-    {
-        "description": "eee",
-        "img_path": "img/eee.jpg",
-        "labels": [
-            "label2",
-            "label3"
-        ],
-        "name": "eee",
-        "price": 60
-    },
-    {
-        "description": "aaaaaaa!!",
-        "img_path": "null",
+        "description": "描述",
+        "img_path": "/Resources/Images/example.jpg",
         "labels": [
             "l1",
             "l3"
         ],
-        "name": "afff",
+        "name": "菜名",
         "price": 1000
     },
     {
-        "description": "aaaaaaa!!",
-        "img_path": "null",
+        "description": "描述",
+        "img_path": "/Resources/Images/example2.jpg",
         "labels": [
-            "l1",
-            "l3"
+            "label2",
+            "label3"
         ],
-        "name": "afff",
-        "price": 1000
+        "name": "菜名",
+        "price": 10.4
     }
 ]

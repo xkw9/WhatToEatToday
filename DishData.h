@@ -4,6 +4,7 @@
 #endif // DISHDATA_H
 
 #include "Dish.h"
+#include "Config.h"
 #include <vector>
 #include <QJsonDocument>
 #include <QJsonObject>
@@ -11,8 +12,9 @@
 #include <QFile>
 #include <QDir>
 #include <QDebug>
+#include <algorithm>
 class DishData {
-    vector<Dish> dishes = {};
+    QList<Dish> dishes = {};
 public:
     DishData() {
         LoadDishData();
@@ -20,7 +22,7 @@ public:
 
     void LoadDishData() {
         QString path = QDir::currentPath();
-        QFile file(path + "//Resources//DishData.json");
+        QFile file(path + Config::DISH_DATA_PATH);
         if (not file.exists()) {
             qDebug() << "Dish Data Files not exist";
             return;
@@ -67,7 +69,7 @@ public:
 
         QJsonDocument doc(arr);
         QString path = QDir::currentPath();
-        QFile file(path + "//Resources//DishData.json");
+        QFile file(path + Config::DISH_DATA_PATH);
         if (not file.exists()) {
             qDebug() << "Dish Data Files not exist";
             return;
@@ -84,7 +86,31 @@ public:
     }
 
     void AddDish(Dish d) {
+
+        // 防止重复
+        if (dishes.contains(d)) {
+            return;
+        }
+
         dishes.push_back(d);
     }
 
+    void RemoveDish(QString name) {
+        Dish d;
+        d.name = name;
+        dishes.removeAll(d);
+
+    }
+
+    void RemoveDish(int index) {
+        if (index < 0 or index >= dishes.size()) {
+            return;
+        }
+        dishes.removeAt(index);
+    }
+
+    template<class CmpFunc>
+    void SortDish(CmpFunc func) {
+        sort(dishes.begin(), dishes.end(), func);
+    }
 };

@@ -549,6 +549,7 @@ untitled_autogen/timestamp: \
   D:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
   D:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
   D:/Qt/projects/untitled/CMakeLists.txt \
+  D:/Qt/projects/untitled/Config.h \
   D:/Qt/projects/untitled/Dish.h \
   D:/Qt/projects/untitled/DishData.h \
   .qtc/package-manager/auto-setup.cmake \

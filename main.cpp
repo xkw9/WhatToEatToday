@@ -14,6 +14,7 @@ int main(int argc, char *argv[])
     dish.img_path = "null";
     dish.labels = {"l1", "l3"};
     d.AddDish(dish);
+    d.RemoveDish("bbb");
     w.show();
     d.SaveDishData();
     return a.exec();
