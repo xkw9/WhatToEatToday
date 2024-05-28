@@ -559,4 +559,5 @@ untitled_autogen/timestamp: \
   D:/Qt/projects/untitled/main.cpp \
   D:/Qt/projects/untitled/mainwindow.cpp \
   D:/Qt/projects/untitled/mainwindow.h \
-  D:/Qt/projects/untitled/mainwindow.ui
+  D:/Qt/projects/untitled/mainwindow.ui \
+  D:/Qt/projects/untitled/utils.h

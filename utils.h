@@ -4,7 +4,7 @@
 #endif // UTILS_H
 
 #include "Dish.h"
-
+// if not
 // 按价格给Dish排序
 bool priceCmp(const Dish& d1, const Dish& d2) {
     if( d1.price == d2.price ) {

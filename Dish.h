@@ -38,6 +38,10 @@ public:
 
     }
 
+    Dish() {
+
+    }
+
     QJsonObject toJson() {
         QJsonObject jsonObj;
         jsonObj.insert("name", name);
