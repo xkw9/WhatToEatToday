@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "D:/Qt/Projects/WhatToEat-master/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/WhatToEat_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Qt/Projects/WhatToEat-master/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Qt/Projects/WhatToEat-master/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Qt/Projects/WhatToEat-master",
+	"CMAKE_SOURCE_DIR" : "D:/Qt/Projects/WhatToEat-master",
+	"INCLUDE_DIR" : "D:/Qt/Projects/WhatToEat-master/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/WhatToEat_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Qt/Projects/WhatToEat-master/background",
+		"D:/Qt/Projects/WhatToEat-master/\u641c\u7d22\u6846",
+		"D:/Qt/Projects/WhatToEat-master/\u7b80\u7ea6\u641c\u7d22\u6846",
+		"D:/Qt/Projects/WhatToEat-master/background800x600",
+		"D:/Qt/Projects/WhatToEat-master/\u641c\u7d22\u6309\u94ae"
+	],
+	"LOCK_FILE" : "D:/Qt/Projects/WhatToEat-master/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/WhatToEat_autogen.dir/AutoRcc_image_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "image" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_image.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.7.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Qt/Projects/WhatToEat-master/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/WhatToEat_autogen.dir/AutoRcc_image_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Qt/Projects/WhatToEat-master/image.qrc",
+	"VERBOSITY" : 0
+}

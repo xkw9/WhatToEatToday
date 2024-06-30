@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>搜索按钮</file>
+        <file>搜索框</file>
+        <file>简约搜索框</file>
+        <file>background</file>
+        <file>background800x600</file>
+    </qresource>
+</RCC>

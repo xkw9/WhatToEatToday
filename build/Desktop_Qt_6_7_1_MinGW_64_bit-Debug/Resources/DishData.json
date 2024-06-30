@@ -1,0 +1,187 @@
+[
+    {
+        "description": "14块钱你就能买到一块好大的鸡排诶",
+        "img_path": "/Resources/Images/DaJiangJun.jpg",
+        "labels": [
+            "米饭",
+            "清淡",
+            "鸡排",
+            "学五食堂",
+            "自选素菜",
+            "卤蛋"
+        ],
+        "name": "大将军鸡排饭",
+        "price": 14
+    },
+    {
+        "description": "黄焖鸡不用多说了吧，看看每天中午勺二排多长的队伍，就知道黄焖鸡有多好吃了",
+        "img_path": "/Resources/Images/HuangMenJi.jpg",
+        "labels": [
+            "米饭",
+            "自选辣度",
+            "鸡肉",
+            "勺园二层",
+            "有素菜",
+            "排队时间较长"
+        ],
+        "name": "黄焖鸡",
+        "price": 15
+    },
+    {
+        "description": "学五的土豆牛肉盖饭，土豆脑袋都该尝尝",
+        "img_path": "/Resources/Images/TuDouNiuRou.jpg",
+        "labels": [
+            "米饭",
+            "清淡",
+            "牛肉",
+            "学五食堂",
+            "自选素菜",
+            "卤蛋"
+        ],
+        "name": "土豆牛肉盖饭",
+        "price": 16
+    },
+    {
+        "description": "其实他家还有好多别的拌饭，鸡肉只要13，烤肉16，而且还会给你拌好哦",
+        "img_path": "/Resources/Images/FeiYangBanFan.jpg",
+        "labels": [
+            "米饭",
+            "清淡",
+            "肥牛",
+            "肥羊",
+            "鸡肉",
+            "学五食堂",
+            "自选素菜",
+            "酸豆角/花生米"
+        ],
+        "name": "肥羊拌饭",
+        "price": 18
+    },
+    {
+        "description": "作为山西人来说，我只能说北京的面食中规中矩吧，个人喜欢吃宽面",
+        "img_path": "/Resources/Images/YouPoMian.jpg",
+        "labels": [
+            "面食",
+            "微微微微辣",
+            "学五食堂",
+            "油麦菜"
+        ],
+        "name": "油泼面",
+        "price": 12
+    },
+    {
+        "description": "这个鱼片蛮好吃的，有一点点辣，对我来说还蛮下饭的(不能吃辣星人)",
+        "img_path": "/Resources/Images/TengJiaoYu.jpg",
+        "labels": [
+            "米饭",
+            "微辣",
+            "鱼片",
+            "学五食堂",
+            "自选素菜"
+        ],
+        "name": "藤椒鱼片拌饭",
+        "price": 18
+    },
+    {
+        "description": "家园的海苔饭，印象里还是蛮好吃的，没吃过的可以去尝尝",
+        "img_path": "/Resources/Images/HaiTaiFan.jpg",
+        "labels": [
+            "米饭",
+            "清淡",
+            "肉松",
+            "家园二层",
+            "海苔"
+        ],
+        "name": "海苔饭",
+        "price": 14
+    },
+    {
+        "description": "这个鸡排好像吃的人挺多的，风评还行。但我其实觉得有点腻？个人意见仅供参考",
+        "img_path": "/Resources/Images/JiPaiFan.jpg",
+        "labels": [
+            "米饭",
+            "清淡",
+            "鸡排",
+            "家园三层",
+            "自选素菜"
+        ],
+        "name": "鸡排饭",
+        "price": 16
+    },
+    {
+        "description": "//待补充//",
+        "img_path": "/Resources/Images/TieBanCai.jpg",
+        "labels": [
+            "米饭",
+            "清淡",
+            "排骨",
+            "农园二层",
+            "自选素菜"
+        ],
+        "name": "铁板菜",
+        "price": 16
+    },
+    {
+        "description": "肥牛有整整一碗，米饭泡到汤里刚好一碗的的量，稍微有点辣，我觉得蛮不错的",
+        "img_path": "/Resources/Images/JinTangFeiNiu.jpg",
+        "labels": [
+            "米饭",
+            "微辣",
+            "肥牛",
+            "家园三层",
+            "无素菜"
+        ],
+        "name": "金汤肥牛",
+        "price": 18
+    },
+    {
+        "description": "学五进门左手边的鱼粉，蛮好吃的",
+        "img_path": "/Resources/Images/JinTangYuFen.jpg",
+        "labels": [
+            "鱼粉",
+            "微辣",
+            "鱼片",
+            "学五食堂",
+            "油麦菜"
+        ],
+        "name": "金汤鱼粉",
+        "price": 16
+    },
+    {
+        "description": "与实际预期的口感差别较大，需要配水才能下咽，没吃过的朋友们要注意了",
+        "img_path": "/Resources/Images/GaoShu.jpg",
+        "labels": [
+            "口感较硬",
+            "理科教学楼",
+            "营养丰富",
+            "高级美食"
+        ],
+        "name": "高等数学",
+        "price": 85
+    },
+    {
+        "description": "这个应该是他家最辣的饭了，红烧肉应该最不辣，肥肠次之。不能吃辣慎尝",
+        "img_path": "D:/Qt/Projects/WhatToEat-master/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/Resources/Images/XiangLaJiZhenBanFan.jpg",
+        "labels": [
+            "米饭",
+            "特辣",
+            "鸡胗",
+            "农园二层"
+        ],
+        "name": "香辣鸡胗拌饭",
+        "price": 16
+    },
+    {
+        "description": "",
+        "img_path": "D:/Qt/Projects/WhatToEat-master/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/Resources/Images/Water.jpg",
+        "labels": [
+            "清淡",
+            "健康",
+            "大众饮品",
+            "解暑",
+            "清淡"
+        ],
+        "name": "水",
+        "price": 0
+    }
+]
